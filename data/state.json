@@ -1,0 +1,36 @@
+{
+  "bedroom": {
+    "ac": {
+      "status": "on",
+      "temp": null
+    },
+    "light": {
+      "status": "off",
+      "brightness": 100
+    }
+  },
+  "living_room": {
+    "tv": {
+      "status": "off",
+      "channel": null
+    },
+    "light": {
+      "status": "off",
+      "brightness": 100
+    }
+  },
+  "__history": [
+    {
+      "ok": true,
+      "room": "bedroom",
+      "device": "ac",
+      "action": "turn_on",
+      "newState": {
+        "status": "on",
+        "temp": null
+      },
+      "raw": "turn on bedroom ac to 24 degrees",
+      "timestamp": "2025-12-03T09:24:13.048Z"
+    }
+  ]
+}
