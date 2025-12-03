@@ -121,3 +121,4 @@ Example output:
 }
 
 module.exports = Parser;
+
